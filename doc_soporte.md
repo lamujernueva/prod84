@@ -247,7 +247,7 @@ Por otra parte, se incluirá la cantidad de registros aprobados, en cuanto a su 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | B13-1 | OTRAS EXPOSICIONES A CONTACTO: Con algún familiar | Int |   | Sí = 1
  No = 2 | 85529 | 0 | El encuestado(a) tuvo la posibilidad se dejar sin respuesta la pregunta B13, en el caso que no presentara otras exposiciones a contactos:17822 casos
- |
+
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | B13-2 | OTRAS EXPOSICIONES A CONTACTO: Viajes fuera de su comuna de residencia | Int |   | Sí = 1
  No = 2 | 85529 | 0 |
