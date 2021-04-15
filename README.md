@@ -1,5 +1,6 @@
-# PD84: Documentacion Tabla de datos para prevalencia de anticuerpos SARS-CoV-2 en trabajadores del sector salud Chile
-En este documento podremos ver los resultados de una encuesta hecha a nivel nacional con empleados de la salud en el año 2020.
+# PD84: Documentación del estudio para el levantamiento de la prevalencia de anticuerpos SARS-CoV-2 en trabajadores del sector salud, durante la primera ola de COVID-19 en Chile
+ 
+En este documento es posible revisar los resultados del estudio para el levantamiento de la prevalencia de anticuerpos SARS-CoV-2 en trabajadores del sector salud, durante la primera ola de COVID-19 en Chile
 
 # Columnas y Valores
 Corresponde a datos recolectados en el estudio de prevalencia de anticuerpos SARS-CoV-2 en trabajadores del sector salud, durante la primera ola de COVID-19 en Chile.
@@ -11,4 +12,4 @@ Estudio de prevalencia de anticuerpos SARS-CoV-2 en trabajadores del sector salu
 No aplica.
 
 # Notas Aclaratorias
-El archivo doc_soporte.md contiene en completo detalle todas las características de este estudio.
+El archivo doc_soporte.md contiene información de soporte de para la utilización de la fuente. Para el caso del diccionario de variables, se sugiere revisar la carpeta “imágenes”
