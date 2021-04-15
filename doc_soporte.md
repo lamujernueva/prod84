@@ -130,3 +130,13 @@ A continuación, se presentarán las variables en la base de datos, las cuales r
 
 Por otra parte, se incluirá la cantidad de registros aprobados, en cuanto a su calidad, por cada pregunta. Como también se indicará el número de missings cuando corresponda. Finalmente, con el fin de dar soporte a procesamientos independientes de la fuente, se incluyeron los códigos de preguntas, de categorías, las condiciones lógicas que generan dependencias, como también notas de utilidad para la pregunta.
 
+![tabla01](images/tabla_01.png)
+![tabla02](images/tabla_02.png)
+![tabla03](images/tabla_03.png)
+![tabla04](images/tabla_04.png)
+![tabla05](images/tabla_05.png)
+![tabla06](images/tabla_06.png)
+![tabla07](images/tabla_07.png)
+![tabla08](images/tabla_08.png)
+![tabla09](images/tabla_09.png)
+![tabla10](images/tabla_10.png)
